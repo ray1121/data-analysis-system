@@ -1,0 +1,6 @@
+
+.DS_Store
+src/node_modules/
+src/log
+src/configs/configs.js
+src/static-data

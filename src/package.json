@@ -1,0 +1,41 @@
+{
+  "name": "recommended-system",
+  "version": "0.0.1",
+  "description": "Recommended system based on Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ray1121/recommended-system.git"
+  },
+  "keywords": [
+    "recommendation",
+    "nodejs"
+  ],
+  "author": "ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ray1121/recommended-system/issues"
+  },
+  "homepage": "https://github.com/ray1121/recommended-system#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "co": "^4.6.0",
+    "express": "^4.15.4",
+    "fast-csv": "^2.4.1",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.5.0",
+    "log4js": "^1.1.1",
+    "mysql": "^2.14.1",
+    "nodejieba": "^2.2.5",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp-nodemon": "^2.2.1",
+    "single-line-log": "^1.1.2"
+  }
+}
