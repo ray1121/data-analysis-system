@@ -1,5 +1,5 @@
 # data-analysis-system
-data-analysis system based on Nodejs
+data-analysis system based on Nodejs,Mysql,Redis
 
 ## 进度
 * 配合mysql与redis现已完成主站20万文章的关键词抽取与统计处理相关工作
